@@ -4,11 +4,11 @@
 
 ## Sobre o projeto
 
-O projeto em questão se trata de um portfólio em formato de WebSite, com o objetivo de apresentar meu trabalho como desenvolvedor Front-End, contendo alguns projetos desenvolvidos, experiências profissionais e habilidades na área da tecnologia. 
+O projeto em questão se trata de um WebSite desenvolvido durante meu estágio/projeto de extensão realizado no Instituto Federal Catarinense - Campus Videira, com o intuito de divulgar um evento do instituto. Este WebSite foi desenvolvido de forma autoral, possibilitando com que meus conhecimentos como desenvolvedor Front-End fossem aplicados na prática e de forma profissional.
 
 É possível acessar a página a partir do botão a seguir.
 
-[![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliomaicon.netlify.app/)
+[![Blog](https://img.shields.io/badge/Semana_Acadêmica-IFC-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://semana-academica-ifc.netlify.app/)
 
 ## Layout Mobile
 <img src="img/sci M1.PNG" width="250px"/><img src="img/sci M3.PNG" width="250px"/><img src="img/sci M2.PNG" width="250px"/>
