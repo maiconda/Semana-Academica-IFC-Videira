@@ -11,7 +11,9 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 [![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliomaicon.netlify.app/)
 
 ## Layout Mobile
-<img src="img/MOBILE1.PNG" width="250px"/><img src="img/MOBILE2.PNG" width="250px"/><img src="img/MOBILE3.PNG" width="250px"/><img src="img/MOBILE4.PNG" width="250px"/><img src="img/MOBILE5.PNG" width="250px"/><img src="img/MOBILE6.PNG" width="250px"/>
+<img src="img/sci M1.PNG" width="700px"/><img src="img/sci D3.PNG" width="700px"/><img src="img/sci D2.PNG" width="700px"/>
+<img src="img/sci D4.PNG" width="700px"/><img src="img/sci D5.PNG" width="700px"/><img src="img/sci D6.PNG" width="700px"/>
+<img src="img/sci D7.PNG" width="700px"/><img src="img/sci D8.PNG" width="700px"/>
 
 ## Layout Desktop
 <img src="img/sci D1.PNG" width="700px"/>
@@ -31,14 +33,6 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Ferramentas Externas
-
-◾ ScrollRevealjs.org
-
-◾️ vincentgarreau.com/particles.js
-
-◾️ FormSubmit.co
 
 ## Autor
 
