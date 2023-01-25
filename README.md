@@ -11,7 +11,7 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 [![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliomaicon.netlify.app/)
 
 ## Layout Mobile
-<img src="img/sci M1.PNG" width="250px"/><img src="img/sci M3.PNG" width="250px"/><img src="img/sci M2.PNG" width="250px"/><img src="img/sci M4.PNG" width="250px"/><img src="img/sci M5.PNG" width="250px"/><img src="img/sci M6.PNG" width="250px"/><img src="img/sci M7.PNG" width="250px"/><img src="img/sci M8.PNG" width="250px"/>
+<img src="img/MOBILE1.PNG" width="250px"/><img src="img/MOBILE2.PNG" width="250px"/><img src="img/MOBILE3.PNG" width="250px"/><img src="img/MOBILE4.PNG" width="250px"/><img src="img/MOBILE5.PNG" width="250px"/><img src="img/MOBILE6.PNG" width="250px"/>
 
 ## Layout Desktop
 <img src="img/sci D1.PNG" width="700px"/>
