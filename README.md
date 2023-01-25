@@ -12,7 +12,9 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 ## Layout Mobile
 <img src="img/sci M1.PNG" width="250px"/><img src="img/sci M3.PNG" width="250px"/><img src="img/sci M2.PNG" width="250px"/>
+
 <img src="img/sci M4.PNG" width="250px"/><img src="img/sci M5.PNG" width="250px"/><img src="img/sci M6.PNG" width="250px"/>
+
 <img src="img/sci M7.PNG" width="250px"/><img src="img/sci M8.PNG" width="250px"/>
 
 ## Layout Desktop
